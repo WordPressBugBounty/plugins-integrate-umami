@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'ancozockt/integrate-umami',
-        'pretty_version' => '0.8.1',
-        'version' => '0.8.1.0',
-        'reference' => '9ed8a3dbda8b7eb86341905385bc095a1dd483a1',
+        'pretty_version' => '0.8.2',
+        'version' => '0.8.2.0',
+        'reference' => '1077dd26d72c21a1ed27d9392236b750cfc5d95d',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'ancozockt/integrate-umami' => array(
-            'pretty_version' => '0.8.1',
-            'version' => '0.8.1.0',
-            'reference' => '9ed8a3dbda8b7eb86341905385bc095a1dd483a1',
+            'pretty_version' => '0.8.2',
+            'version' => '0.8.2.0',
+            'reference' => '1077dd26d72c21a1ed27d9392236b750cfc5d95d',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
