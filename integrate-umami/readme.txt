@@ -1,7 +1,7 @@
 === Integrate Umami ===
 Contributors: ancocodet
 Tags: analytics,umami
-Stable tag: 0.8.2
+Stable tag: 0.8.3
 Requires at least: 6.0
 Tested up to: 6.7
 Requires PHP: 7.4
@@ -55,6 +55,10 @@ This release fixes an issue with the update from 0.5.0 to 0.6.0. The update proc
 Issues with the settings page were fixed and the overall feeling of the page was improved as well.
 
 == Changelog ==
+
+= 0.8.3 =
+* Fixed an issue with the comment tracking
+* Added more metadata to the comment tracking
 
 = 0.8.1 =
 * Fixed issue with the Widget redirecting to the wrong page

@@ -3,7 +3,7 @@
 **Tags:** analytics,umami <br>
 **Requires at least:** 6.0 <br>
 **Tested up to:** 6.7 <br>
-**Stable tag:** 0.8.2 <br>
+**Stable tag:** 0.8.3 <br>
 **Requires PHP:** 7.4 <br>
 **License:** GPLv3 or later <br>
 **License URI:** https://github.com/Ancocodet/wp-umami/blob/main/LICENSE.md <br>
@@ -61,6 +61,11 @@ This release fixes an issue with the update from 0.5.0 to 0.6.0. The update proc
 Issues with the settings page were fixed and the overall feeling of the page was improved as well.
 
 ## Changelog ##
+
+- **0.8.3** - Comment Tracking Fix<br>
+<br>Fixed an issue with the comment tracking
+<br>Added more metadata to the comment tracking
+<br><br>
 
 - **0.8.1** - Widget Fix<br>
 <br>Fixed an issue with the widget redirecting to the wrong url

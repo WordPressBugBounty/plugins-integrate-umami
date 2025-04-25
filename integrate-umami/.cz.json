@@ -3,8 +3,8 @@
     "name": "cz_conventional_commits",
     "tag_format": "$version",
     "version_scheme": "semver",
-    "version": "0.8.2",
-    "update_changelog_on_bump": true,
+    "version": "0.8.3",
+    "update_changelog_on_bump": false,
     "version_files": [
       "wp-umami.php",
       "readme.txt:Stable tag",
